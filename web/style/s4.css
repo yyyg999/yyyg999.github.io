@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.con{
+    margin: 30px;
+    width: 100%;
+    margin-bottom: 100px
+    
+   ;
+}
+ .c1{
+    text-align: center;
+    width: 100%;
+    height: 50px;
+    
+    border-bottom: 2px solid black;
+    margin-bottom: 40px;
+    
+}
+.c2{
+    text-align: center;
+    margin: 40px;
+}
+.head{
+    text-align: center;
+}
+
+.buz a{
+    width: 110px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: rgb(115, 219, 153);
+    text-decoration: none;
+    text-align: center;
+    line-height: 40px;
+    color: rgb(64, 61, 61);
+    position: fixed;
+    left: 20px;
+    bottom: 20px;
+    box-shadow: 2px 2px 5px gray;
+}
+.buto a{
+    width: 110px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: rgb(115, 219, 153);
+    text-decoration: none;
+    text-align: center;
+    line-height: 40px;
+    color: rgb(64, 61, 61);
+    position: fixed;
+    right:  20px;
+    bottom: 20px;
+    box-shadow: 2px 2px 5px gray;
+}
